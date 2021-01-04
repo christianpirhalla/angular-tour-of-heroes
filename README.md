@@ -1,3 +1,7 @@
+This is my run through of the Tour of Heroes Angular tutorial with additional styling and (eventually) additional features. 
+Live version of the completed tutorial for reference: https://angular.io/generated/live-examples/toh-pt6/stackblitz.html
+
+
 # AngularTourOfHeroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.4.
